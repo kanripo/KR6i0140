@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 採花違王上佛授決號妙花經
+#+DATE: 2015-08-30 20:10:53.971737
+#+PROPERTY: JUAN 0
